@@ -1,1 +1,4 @@
-## Olá! Eu sou Pablo Carvalho dos Santos
+## Olá! Eu me chamo Pablo Carvalho dos Santos
+- estou estudando C# atualmente
+- quero um emprego 
+- to facado fi
